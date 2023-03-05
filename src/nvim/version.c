@@ -2745,7 +2745,7 @@ void intro_message(int colon)
   static char *(lines[]) = {
     N_(NVIM_VERSION_LONG),
     "",
-    N_("Nvim is open source and freely distributable"),
+    N_("Nvim is charan sai open source and freely distributable"),
     "https://neovim.io/#chat",
     "",
     N_("type  :help nvim<Enter>       if you are new! "),
